@@ -1,4 +1,12 @@
-UPDATES
+UPDATES:
+
+0.1.68 ALPHA
+  - Fixed DiscordSRV
+  - Added Coordinate plugin/feature
+  - Added linking system
+  - Fixed some bugs
+  - Got rid of Essentials Starter Kit
+
 0.1.6 ALPHA
   - Fixed DiscordSRV
   - ADded Coordinate plugin/feature
